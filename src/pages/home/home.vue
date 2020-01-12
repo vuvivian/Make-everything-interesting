@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="show">
-      <button open-type="getUserInfo" lang="zh_CN" class="btn" @getUserInfo="login">
+      <button open-type="getUserInfo" lang="zh_CN" class="btn" @getuserinfo="login">
         授权登陆
       </button>
       <div class="mark-text">当前分数</div>
