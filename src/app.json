@@ -1,0 +1,29 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/me/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#EA5149",
+    "navigationBarTitleText": "让一切变得有趣",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor":"#Ea5149",
+    "list":[
+      {
+        "text":"首页",
+        "pagePath": "pages/index/main",
+        "iconPath":"static/images/index.png",
+        "selectedIconPath": "static/images/index_active.png"
+      },
+      {
+        "text":"me",
+        "pagePath": "pages/me/main",
+        "iconPath":"static/images/me.png",
+        "selectedIconPath": "static/images/me_active.png"
+      }
+    ]
+  }
+}
