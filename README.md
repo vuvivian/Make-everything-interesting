@@ -1,4 +1,14 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-01-11 22:32:29
+ * @LastEditTime: 2020-04-25 17:29:37
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /Make-everything-interesting/README.md
+ -->
 # make-everything-interesting
+
+> 通过网络远程控制家电、监测家里实时状况，为用户带来更加便捷舒适的生活环境。
 
 > A Mpvue project
 

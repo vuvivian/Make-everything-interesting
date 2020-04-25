@@ -1,7 +1,10 @@
 {
   "pages": [
     "pages/home/main",
-    "pages/me/main"
+    "pages/scenes/main",
+    "pages/devices/main",
+    "pages/places/main",
+    "pages/setting/main"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -19,8 +22,26 @@
         "selectedIconPath": "static/images/index_active.png"
       },
       {
-        "text":"me",
-        "pagePath": "pages/me/main",
+        "text":"情景",
+        "pagePath": "pages/scenes/main",
+        "iconPath":"static/images/me.png",
+        "selectedIconPath": "static/images/me_active.png"
+      },
+      {
+        "text":"设备",
+        "pagePath": "pages/scenes/main",
+        "iconPath":"static/images/me.png",
+        "selectedIconPath": "static/images/me_active.png"
+      },
+      {
+        "text":"场所",
+        "pagePath": "pages/scenes/main",
+        "iconPath":"static/images/me.png",
+        "selectedIconPath": "static/images/me_active.png"
+      },
+      {
+        "text":"设置",
+        "pagePath": "pages/scenes/main",
         "iconPath":"static/images/me.png",
         "selectedIconPath": "static/images/me_active.png"
       }

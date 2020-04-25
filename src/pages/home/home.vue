@@ -45,7 +45,7 @@ export default {
       });
     },
     loginSuccess(userInfo){
-      // wx.setStorageSync("userInfo", userInfo)
+      wx.setStorageSync("userInfo", userInfo)
     }
   }
 }
