@@ -1,47 +1,27 @@
 {
   "pages": [
     "pages/home/main",
-    "pages/scenes/main",
-    "pages/devices/main",
-    "pages/places/main",
     "pages/setting/main"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#EA5149",
+    "navigationBarBackgroundColor": "#55b3a9",
     "navigationBarTitleText": "让一切变得有趣",
-    "navigationBarTextStyle": "black"
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#999999"
   },
   "tabBar": {
     "selectedColor":"#Ea5149",
     "list":[
       {
-        "text":"home",
+        "text":"首页",
         "pagePath": "pages/home/main",
-        "iconPath":"static/images/index.png",
-        "selectedIconPath": "static/images/index_active.png"
-      },
-      {
-        "text":"情景",
-        "pagePath": "pages/scenes/main",
         "iconPath":"static/images/me.png",
         "selectedIconPath": "static/images/me_active.png"
       },
       {
-        "text":"设备",
-        "pagePath": "pages/scenes/main",
-        "iconPath":"static/images/me.png",
-        "selectedIconPath": "static/images/me_active.png"
-      },
-      {
-        "text":"场所",
-        "pagePath": "pages/scenes/main",
-        "iconPath":"static/images/me.png",
-        "selectedIconPath": "static/images/me_active.png"
-      },
-      {
-        "text":"设置",
-        "pagePath": "pages/scenes/main",
+        "text":"我的",
+        "pagePath": "pages/setting/main",
         "iconPath":"static/images/me.png",
         "selectedIconPath": "static/images/me_active.png"
       }
