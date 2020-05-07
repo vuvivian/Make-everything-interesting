@@ -1,13 +1,13 @@
 /*
  * @Author: your name
- * @Date: 2020-04-27 21:40:55
- * @LastEditTime: 2020-04-27 21:57:51
+ * @Date: 2020-04-27 22:42:24
+ * @LastEditTime: 2020-04-28 00:41:57
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: /Make-everything-interesting/src/pages/home/main.js
+ * @FilePath: /Make-everything-interesting/src/pages/setting/main.js
  */
 import Vue from 'vue'
-import Home from './Home'
+import Home from './home'
 
 const home = new Vue(Home)
 home.$mount()

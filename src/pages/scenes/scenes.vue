@@ -1,6 +1,14 @@
 <!--
  * @Author: your name
  * @Date: 2020-04-25 18:22:28
+ * @LastEditTime: 2020-05-01 21:06:19
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /Make-everything-interesting/src/pages/scenes/scenes.vue
+ -->
+<!--
+ * @Author: your name
+ * @Date: 2020-04-25 18:22:28
  * @LastEditTime: 2020-04-27 00:09:23
  * @LastEditors: Please set LastEditors
  * @Description: 情景页面

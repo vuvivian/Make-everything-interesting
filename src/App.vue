@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-01-11 22:32:29
- * @LastEditTime: 2020-04-27 21:57:00
+ * @LastEditTime: 2020-04-27 23:33:19
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /Make-everything-interesting/src/App.vue
@@ -38,7 +38,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="wxss" scoped >
 .container {
   height: 100%;
   display: flex;
@@ -47,7 +47,7 @@ export default {
   justify-content: space-between;
   padding: 200rpx 0;
   box-sizing: border-box;
-  background: #f4f3ef;
+  background: red;
 }
 /* this rule will be remove */
 * {
@@ -56,7 +56,8 @@ export default {
   -webkit-transition: width 2s;
   -o-transition: width 2s;
 }
-* {
+page {
   font-family: Regular/Semibold;
+  background: #ccc; 
 }
 </style>

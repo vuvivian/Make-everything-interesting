@@ -1,11 +1,12 @@
 /*
- * @Author: your name
+ * @Author: vuvivian
  * @Date: 2020-04-25 18:22:58
- * @LastEditTime: 2020-04-25 18:23:29
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
+ * @LastEditors: vuvivian
+ * @LastEditTime: 2020-05-01 22:11:47
+ * @Descripttion: 
  * @FilePath: /Make-everything-interesting/src/pages/places/main.js
  */
+
 import Vue from 'vue'
 import App from './places'
 
